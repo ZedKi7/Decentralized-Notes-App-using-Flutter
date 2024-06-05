@@ -1,0 +1,19 @@
+name: dapp_flutter_blockchain
+description: "DApp Using Flutter | Blockchain | Web 3 | Solidity"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

@@ -10,6 +10,11 @@ dependencies:
   flutter:
     sdk: flutter
 
+  provider:
+  web3dart:
+  http:
+  web_socket_channel:
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
